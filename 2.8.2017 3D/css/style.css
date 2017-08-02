@@ -1,0 +1,21 @@
+.content {
+    width: 800px;
+    height: 532px;
+    margin: 0 auto;
+}
+
+.div {
+    width: 200px;
+    height: 150px;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+img{
+    width: 100%;
+    transition: all 2s;
+}
+.div img:hover {
+    transform: scale(1.2,1.2);
+   
+}
